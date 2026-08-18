@@ -1,5 +1,9 @@
 # My Git Basics Lab
 
-This repository is used to learn Git and Github
+## Objective
 
-I'm learning version control with Git
+## What I Learned
+
+## Git Workflow
+
+## Github
